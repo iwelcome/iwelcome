@@ -1,6 +1,6 @@
 ### Hi, I'm Ivory 👋🏾👩🏾‍💻
 
-I'm an experienced professional with experience in Healthcare Operations Management and Education and Training. I'm also a Mom to an amazing and smart little boy👩‍👦 Over a year ago, I decided to make a transition into tech and pursue a career path in Cloud Computing. 
+I'm an experienced professional with experience in Healthcare Operations Management and Education and Training. I'm also a Mom to an amazing and smart little boy👩‍👦 Over a year ago, I decided to make a transition into tech and pursue a career path in Cloud Computing. My greatest interests are in the areas of Cloud Development and Security.
 
 Boy has it been a ride! Juggling a busy career and being a Mom while attending and completing a DevOps bootcamp, earning the AWS Cloud Practitioner and Cloud Architect Associate certifications, completing hands on projects and absorbing all the knowledge and skills I can. The journey has been a bit slower for me with having to complete this masterful juggling act, but what I've proven to myself and others hopefully is that it is never too late to pursue your dreams. You CAN indeed teach an old dog new tricks. 
 
